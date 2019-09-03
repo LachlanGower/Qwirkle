@@ -1,0 +1,46 @@
+ Welcome to Qwirkle!
+--------------------
+ Menu
+----
+ 1 - New Game
+ 2 - Load Game
+ 3 - Show student information
+ 4 - Quit
+ Enter your choice and press return: 
+> Starting a New Game
+
+How many Players?
+> How many Bots?
+> Enter a name for player 1(uppercase characters only)
+> Enter a name for player 2(uppercase characters only)
+> Let's Play
+
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  
+  ----
+A |  |
+
+Your hand is
+B1,O5,P6,R4,O4,G1
+
+> Commands
+place <tile> at <position> - E.g place R5 at A0
+replace <tile> - E.g replace R5
+save <filename> - save the current state of the game
+help - show this menu
+^D - exit program from command line
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  
+  ----
+A |  |
+
+Your hand is
+B1,O5,P6,R4,O4,G1
+
+> Goodbye

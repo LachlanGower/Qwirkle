@@ -1,0 +1,25 @@
+ Welcome to Qwirkle!
+--------------------
+ Menu
+----
+ 1 - New Game
+ 2 - Load Game
+ 3 - Show student information
+ 4 - Quit
+ Enter your choice and press return: 
+> Enter "1" to start a new game!
+Enter "2" to load a file into the game
+Enter "3" to show the list of Students who worked on the game
+Enter "4" to Quit the Game
+Enter "help" to see this again
+Enter "Ctrl-D" to Exit the Game at anytime
+ Welcome to Qwirkle!
+--------------------
+ Menu
+----
+ 1 - New Game
+ 2 - Load Game
+ 3 - Show student information
+ 4 - Quit
+ Enter your choice and press return: 
+> Goodbye

@@ -1,0 +1,79 @@
+ Welcome to Qwirkle!
+--------------------
+ Menu
+----
+ 1 - New Game
+ 2 - Load Game
+ 3 - Show student information
+ 4 - Quit
+ Enter your choice and press return: 
+> Enter the filename from which load a game
+> Qwirkle game successfully loaded
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  
+  ----
+A |  |
+
+Your hand is
+B1,O5,P6,R4,O4,G1
+
+> 
+B, it's your turn
+Score for A: 1
+Score for B: 0
+   0   1   2  
+  ------------
+A |  ||  ||  |
+B |  ||O4||  |
+C |  ||  ||  |
+
+Your hand is
+Y4,P1,B6,R5,B3,Y2
+
+> 
+A, it's your turn
+Score for A: 1
+Score for B: 2
+   0   1   2  
+  ------------
+A |  ||  ||  |
+B |  ||Y4||  |
+C |  ||O4||  |
+D |  ||  ||  |
+
+Your hand is
+B1,O5,P6,R4,G1,Y5
+
+> 
+B, it's your turn
+Score for A: 3
+Score for B: 2
+   0   1   2   3  
+  ----------------
+A |  ||  ||  ||  |
+B |  ||Y4||Y5||  |
+C |  ||O4||  ||  |
+D |  ||  ||  ||  |
+
+Your hand is
+P1,B6,R5,B3,Y2,Y4
+
+> place Y4 at A1: Invalid move
+
+B, it's your turn
+Score for A: 3
+Score for B: 2
+   0   1   2   3  
+  ----------------
+A |  ||  ||  ||  |
+B |  ||Y4||Y5||  |
+C |  ||O4||  ||  |
+D |  ||  ||  ||  |
+
+Your hand is
+P1,B6,R5,B3,Y2,Y4
+
+> Goodbye

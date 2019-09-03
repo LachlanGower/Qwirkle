@@ -1,0 +1,259 @@
+ Welcome to Qwirkle!
+--------------------
+ Menu
+----
+ 1 - New Game
+ 2 - Load Game
+ 3 - Show student information
+ 4 - Quit
+ Enter your choice and press return: 
+> Enter the filename from which load a game
+> Qwirkle game successfully loaded
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  
+  ----
+A |  |
+
+Your hand is
+B1,O5,P6,R4,O4,G1
+
+> 
+B, it's your turn
+Score for A: 1
+Score for B: 0
+   0   1   2  
+  ------------
+A |  ||  ||  |
+B |  ||O4||  |
+C |  ||  ||  |
+
+Your hand is
+Y4,P1,B6,R5,B3,Y2
+
+> 
+A, it's your turn
+Score for A: 1
+Score for B: 2
+   0   1   2  
+  ------------
+A |  ||  ||  |
+B |  ||Y4||  |
+C |  ||O4||  |
+D |  ||  ||  |
+
+Your hand is
+B1,O5,P6,R4,G1,Y5
+
+> 
+B, it's your turn
+Score for A: 4
+Score for B: 2
+   0   1   2  
+  ------------
+A |  ||  ||  |
+B |  ||R4||  |
+C |  ||Y4||  |
+D |  ||O4||  |
+E |  ||  ||  |
+
+Your hand is
+P1,B6,R5,B3,Y2,Y4
+
+> 
+A, it's your turn
+Score for A: 4
+Score for B: 4
+   0   1   2   3  
+  ----------------
+A |  ||  ||  ||  |
+B |  ||R5||R4||  |
+C |  ||  ||Y4||  |
+D |  ||  ||O4||  |
+E |  ||  ||  ||  |
+
+Your hand is
+B1,O5,P6,G1,Y5,O2
+
+> 
+B, it's your turn
+Score for A: 6
+Score for B: 4
+   0   1   2   3  
+  ----------------
+A |  ||  ||  ||  |
+B |  ||Y5||  ||  |
+C |  ||R5||R4||  |
+D |  ||  ||Y4||  |
+E |  ||  ||O4||  |
+F |  ||  ||  ||  |
+
+Your hand is
+P1,B6,B3,Y2,Y4,R6
+
+> 
+A, it's your turn
+Score for A: 6
+Score for B: 6
+   0   1   2   3   4  
+  --------------------
+A |  ||  ||  ||  ||  |
+B |  ||Y2||Y5||  ||  |
+C |  ||  ||R5||R4||  |
+D |  ||  ||  ||Y4||  |
+E |  ||  ||  ||O4||  |
+F |  ||  ||  ||  ||  |
+
+Your hand is
+B1,O5,P6,G1,O2,P5
+
+> 
+B, it's your turn
+Score for A: 9
+Score for B: 6
+   0   1   2   3   4  
+  --------------------
+A |  ||  ||  ||  ||  |
+B |  ||  ||P5||  ||  |
+C |  ||Y2||Y5||  ||  |
+D |  ||  ||R5||R4||  |
+E |  ||  ||  ||Y4||  |
+F |  ||  ||  ||O4||  |
+G |  ||  ||  ||  ||  |
+
+Your hand is
+P1,B6,B3,Y4,R6,B1
+
+> 
+A, it's your turn
+Score for A: 9
+Score for B: 9
+   0   1   2   3   4   5  
+  ------------------------
+A |  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||P5||  ||  |
+C |  ||Y4||Y2||Y5||  ||  |
+D |  ||  ||  ||R5||R4||  |
+E |  ||  ||  ||  ||Y4||  |
+F |  ||  ||  ||  ||O4||  |
+G |  ||  ||  ||  ||  ||  |
+
+Your hand is
+B1,O5,P6,G1,O2,G2
+
+> 
+B, it's your turn
+Score for A: 13
+Score for B: 9
+   0   1   2   3   4   5  
+  ------------------------
+A |  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||O5||  ||  |
+C |  ||  ||  ||P5||  ||  |
+D |  ||Y4||Y2||Y5||  ||  |
+E |  ||  ||  ||R5||R4||  |
+F |  ||  ||  ||  ||Y4||  |
+G |  ||  ||  ||  ||O4||  |
+H |  ||  ||  ||  ||  ||  |
+
+Your hand is
+P1,B6,B3,R6,B1,P2
+
+> 
+A, it's your turn
+Score for A: 13
+Score for B: 12
+   0   1   2   3   4   5   6  
+  ----------------------------
+A |  ||  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||O5||  ||  ||  |
+C |  ||  ||  ||P5||  ||  ||  |
+D |  ||Y4||Y2||Y5||  ||  ||  |
+E |  ||  ||  ||R5||R4||R6||  |
+F |  ||  ||  ||  ||Y4||  ||  |
+G |  ||  ||  ||  ||O4||  ||  |
+H |  ||  ||  ||  ||  ||  ||  |
+
+Your hand is
+B1,P6,G1,O2,G2,G2
+
+> 
+B, it's your turn
+Score for A: 15
+Score for B: 12
+   0   1   2   3   4   5   6  
+  ----------------------------
+A |  ||  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||O5||  ||  ||  |
+C |  ||  ||  ||P5||  ||  ||  |
+D |  ||Y4||Y2||Y5||  ||  ||  |
+E |  ||  ||  ||R5||R4||R6||  |
+F |  ||  ||  ||  ||Y4||  ||  |
+G |  ||  ||  ||  ||O4||O2||  |
+H |  ||  ||  ||  ||  ||  ||  |
+
+Your hand is
+P1,B6,B3,B1,P2,Y5
+
+> 
+A, it's your turn
+Score for A: 15
+Score for B: 14
+   0   1   2   3   4   5   6  
+  ----------------------------
+A |  ||  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||O5||  ||  ||  |
+C |  ||  ||  ||P5||  ||  ||  |
+D |  ||Y4||Y2||Y5||  ||  ||  |
+E |  ||  ||  ||R5||R4||R6||  |
+F |  ||  ||  ||  ||Y4||  ||  |
+G |  ||  ||  ||  ||O4||O2||  |
+H |  ||  ||  ||  ||  ||P2||  |
+I |  ||  ||  ||  ||  ||  ||  |
+
+Your hand is
+B1,P6,G1,G2,G2,P4
+
+> 
+B, it's your turn
+Score for A: 18
+Score for B: 14
+   0   1   2   3   4   5   6  
+  ----------------------------
+A |  ||  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||O5||  ||  ||  |
+C |  ||  ||  ||P5||  ||  ||  |
+D |  ||Y4||Y2||Y5||  ||  ||  |
+E |  ||  ||  ||R5||R4||R6||  |
+F |  ||  ||  ||  ||Y4||  ||  |
+G |  ||  ||  ||  ||O4||O2||  |
+H |  ||  ||  ||  ||  ||P2||  |
+I |  ||  ||  ||  ||  ||G2||  |
+J |  ||  ||  ||  ||  ||  ||  |
+
+Your hand is
+P1,B6,B3,B1,Y5,P4
+
+> 
+A, it's your turn
+Score for A: 18
+Score for B: 16
+   0   1   2   3   4   5   6   7  
+  --------------------------------
+A |  ||  ||  ||  ||  ||  ||  ||  |
+B |  ||  ||  ||O5||  ||  ||  ||  |
+C |  ||  ||  ||P5||  ||  ||  ||  |
+D |  ||Y4||Y2||Y5||  ||  ||  ||  |
+E |  ||  ||  ||R5||R4||R6||  ||  |
+F |  ||  ||  ||  ||Y4||  ||  ||  |
+G |  ||  ||  ||  ||O4||O2||  ||  |
+H |  ||  ||  ||  ||  ||P2||P4||  |
+I |  ||  ||  ||  ||  ||G2||  ||  |
+J |  ||  ||  ||  ||  ||  ||  ||  |
+
+Your hand is
+B1,P6,G1,G2,P4,O3
+
+> Goodbye

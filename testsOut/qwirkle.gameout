@@ -1,0 +1,46 @@
+ Welcome to Qwirkle!
+--------------------
+ Menu
+----
+ 1 - New Game
+ 2 - Load Game
+ 3 - Show student information
+ 4 - Quit
+ Enter your choice and press return: 
+> Enter the filename from which load a game
+> Qwirkle game successfully loaded
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  
+  ----
+A |Y6|
+B |Y5|
+C |Y4|
+D |Y3|
+E |Y2|
+F |  |
+
+Your hand is
+Y1,B1
+
+> QWIRKLE!!!
+
+B, it's your turn
+Score for A: 12
+Score for B: 0
+   0   1   2  
+  ------------
+A |  ||Y6||  |
+B |  ||Y5||  |
+C |  ||Y4||  |
+D |  ||Y3||  |
+E |  ||Y2||  |
+F |  ||Y1||  |
+G |  ||  ||  |
+
+Your hand is
+Y2,R2
+
+> Goodbye
